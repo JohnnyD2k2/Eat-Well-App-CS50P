@@ -1,0 +1,15 @@
+Dish Name,Category,Calories (kcal),Protein (g),Price (VND),Allergy Info
+Avocado and Quinoa Salad,Appetizer,250,8,345000,NONE
+Smoked Salmon and Cucumber Roll,Appetizer,180,22,395000,"Fish, Dairy"
+Grilled Vegetables with Hummus,Appetizer,220,10,365000,Sesame
+Lentil and Chickpea Salad with Feta Cheese,Appetizer,230,16,365000,Dairy
+Chilled Gazpacho Soup,Appetizer,90,3,240000,"Gluten, Dairy"
+Chickpeas and Spinach Soup,Appetizer,120,9,240000,NONE
+Grilled Salmon with Asparagus and Sweet Potato Mash,Main Course,400,40,575000,"Fish, Dairy"
+Chicken and Avocado Lettuce Wraps,Main Course,350,28,390000,"Dairy, Poultry"
+Grilled Herb-Crusted Chicken Breast with Quinoa Pilaf,Main Course,450,45,540000,"Dairy, Poultry"
+Vegetable Stir Fry with Tofu and Brown Rice,Main Course,300,15,320000,"Sesame, Soy, Gluten"
+Bun Bo Nam Bo Healthy,Main Course,500,30,395000,"Peanuts, Fish, Soy, Beef"
+Chia Seed Pudding with Berries,Dessert,180,7,235000,Dairy
+Greek Yogurt Parfait with Honey and Almond,Dessert,200,12,235000,Dairy
+Coconut Milk Panna Cotta,Dessert,250,4,235000,NONE
