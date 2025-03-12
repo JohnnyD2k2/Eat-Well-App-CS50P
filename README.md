@@ -30,38 +30,7 @@ python project.py
 
 Upon launching, the app opens a shareable web interface in your default browser, displaying a clean, dark-themed layout with the following structure:
 
-```text
-🍽 **EAT WELL APP**
-
-ℹ **DETAILS**
-😋ᵞᵁᴹᴹᵞ😋 **EAT WELL**
-
-🛒 **YOUR CART**
-🗑 CLEAR CART
-
-𓌉◯𓇋 **MENU**
-➕ ADD TO CART
-
-APPETIZERS
-- Avocado and Quinoa Salad
-- Smoked Salmon and Cucumber Roll
-- Grilled Vegetables with Hummus
-- Lentil and Chickpea Salad with Feta Cheese
-- Chilled Gazpacho Soup
-- Chickpeas and Spinach Soup
-
-MAIN COURSE
-- Grilled Salmon with Asparagus and Sweet Potato Mash
-- Chicken and Avocado Lettuce Wraps
-- Grilled Herb-Crusted Chicken Breast with Quinoa Pilaf
-- Vegetable Stir Fry with Tofu and Brown Rice
-- Bun Bo Nam Bo Healthy
-
-DESSERTS
-- Chia Seed Pudding with Berries
-- Greek Yogurt Parfait with Honey and Almond
-- Coconut Milk Panna Cotta
-```
+<img width="959" alt="cs50" src="https://github.com/user-attachments/assets/6390e5f1-3f74-4ea9-8822-aee944679a90" />
 
 Users can select dishes from radio buttons under each category, view detailed information (calories, protein, price, allergens) by selecting a dish, add items to their cart using the "ADD TO CART" button, and clear the cart with the "CLEAR CART" button. The app updates dynamically, showing totals for price, calories, and protein in the cart. Users can exit by closing the browser or terminating the script (`CTRL + C` in the terminal).
 
