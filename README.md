@@ -32,6 +32,7 @@ Upon launching, the app opens a shareable web interface in your default browser,
 
 <img width="959" alt="cs50" src="https://github.com/user-attachments/assets/6390e5f1-3f74-4ea9-8822-aee944679a90" />
 
+
 Users can select dishes from radio buttons under each category, view detailed information (calories, protein, price, allergens) by selecting a dish, add items to their cart using the "ADD TO CART" button, and clear the cart with the "CLEAR CART" button. The app updates dynamically, showing totals for price, calories, and protein in the cart. Users can exit by closing the browser or terminating the script (`CTRL + C` in the terminal).
 
 ## Functioning
