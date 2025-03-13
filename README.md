@@ -1,5 +1,5 @@
 # Eat Well App
-#### Video Demo: []
+#### Video Demo: [https://youtu.be/2DAh1cZ9N14?si=7t4s8f3UvLAxB_qS]
 
 ## Definition
 The **Eat Well App** is an interactive web application built using Gradio, designed to assist users in planning and tracking healthy, balanced meals. This app provides a user-friendly interface for selecting nutritious recipes, calculating nutritional values (calories, protein, etc.), and managing meal plans for a week. It’s ideal for health-conscious individuals, dietitians, or anyone looking to maintain a balanced diet. The project is structured with the following files:
